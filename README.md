@@ -1,26 +1,26 @@
 ## Features
-User Registration	
-User Login	
-Create Posts (Caption, Image/Video URL, Music URL, Category, etc.)	
-Validate user before post creation	
-View User Profile (with all relevant info like Instagram)	
-Follow Other Users	
-Get Contents Posted by Logged-in User	
-Get Contents Posted by Other Users	
-Get Details of a Specific Post (including Likes and Comments)	
-Like a Post	
-Get All Users Who Liked a Post	
-Comment on a Post	
-Get All Users and Their Comments on a Post	
-User Feed (based on followed users, reverse chronological order)	
-Pagination for Posts	
-Pagination for Users Who Liked a Post	
-Pagination for Comments on a Post	
-Search for a User by Username	
-Search for Posts by Hashtags	
-Pagination for Posts by Hashtags	
-Filters for Category or Date Posted	
-Unit Test Cases
+1. User Registration
+2. User Login
+3. Create Posts (Caption, Image/Video URL, Music URL, Category, etc.)
+4. Validate user before post creation
+5. View User Profile (with all relevant info like Instagram)
+6. Follow Other Users
+7. Get Contents Posted by Logged-in User
+8. Get Contents Posted by Other Users
+9. Get Details of a Specific Post (including Likes and Comments)
+10. Like a Post
+11. Get All Users Who Liked a Post
+12. Comment on a Post
+13. Get All Users and Their Comments on a Post
+14. User Feed (based on followed users, reverse chronological order)
+15. Pagination for Posts
+16. Pagination for Users Who Liked a Post
+17. Pagination for Comments on a Post
+18. Search for a User by Username
+19. Search for Posts by Hashtags
+20. Pagination for Posts by Hashtags
+21. Filters for Category or Date Posted
+22. Unit Test Cases
 
 ## Tech Stack
 - **Language**: Python
